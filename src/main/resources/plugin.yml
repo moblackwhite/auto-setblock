@@ -1,0 +1,3 @@
+name: Auto Setblock
+version: '${project.version}'
+main: org.kuang.autosetblock.AutoSetblock
